@@ -1,0 +1,14 @@
+h1 {text-align: center;}
+
+.container{
+  max-width: auto;
+  margin: auto;
+  background-color: #ffe6cc;
+  }
+
+img {
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+.recipe {text-align: center;}

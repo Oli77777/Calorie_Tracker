@@ -1,0 +1,71 @@
+h1 {text-align: center;}
+
+.container{
+  max-width: auto;
+  margin: auto;
+  background-color: #ffe6cc;
+  }
+
+img {
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+.recipe {text-align: center;}
+
+
+.navbar {
+text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #999999;
+}
+
+.nav {
+
+  float: left;
+  padding: 15px;
+  text-align: center;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+.navimg {
+  width: 30px;
+}
+.card-body {
+  background-color: #999999;
+}
+.card-title {
+  padding-top: 10px;
+}
+.foot {
+  
+  width: auto;
+  padding: 10px;
+  background-color: #999999;
+  color: white;
+
+}
+.footbar {
+text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #999999;
+}
+th {
+  text-align: center;
+}
