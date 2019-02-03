@@ -1,9 +1,12 @@
-h1 {text-align: center;}
+h1, h2 {text-align: center;
+    color: white;
+  }
 
 .container{
   max-width: auto;
   margin: auto;
-  background-color: #ffe6cc;
+  background-image: url(images/basilikum.jpeg);
+
   }
 
 img {
@@ -26,9 +29,14 @@ text-align: center;
 .nav {
 
   float: left;
-  padding: 15px;
+  padding: 10px;
   text-align: center;
 }
+.table {
+  background-color: #fff;
+}
+
+
 
 li a {
   display: block;
@@ -45,13 +53,16 @@ li a:hover {
   width: 30px;
 }
 .card-body {
-  background-color: #999999;
+  background-color: background-color: #999999;;
 }
 .card-title {
   padding-top: 10px;
 }
+.footer {
+  background-color: #999999;
+}
 .foot {
-  
+  float:left;
   width: auto;
   padding: 10px;
   background-color: #999999;
@@ -59,13 +70,17 @@ li a:hover {
 
 }
 .footbar {
-text-align: center;
+  text-align: center;
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #999999;
 }
+p {padding: 20px;
+    color: white;}
+
 th {
   text-align: center;
+  color: black;
 }
