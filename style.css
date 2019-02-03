@@ -5,8 +5,12 @@ h1, h2 {text-align: center;
 .container{
   max-width: auto;
   margin: auto;
+<<<<<<< HEAD
   background-image: url(images/basilikum.jpeg);
 
+=======
+  background-color: purple;
+>>>>>>> 3e3f72d8b82461cf5de297a3b774b3ea3105ede6
   }
 
 img {
